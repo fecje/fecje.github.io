@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fecje.github.io/Yzy/sitemap.Yzy.gz
